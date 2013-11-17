@@ -201,6 +201,7 @@ def custom_count(input_list, value):
     return counter
     #passed
 
+#The card switch!
 def custom_reverse(input_list):
     """custom_reverse(input_list) imitates input_list.reverse()"""
     list_copy = input_list[:]
